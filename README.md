@@ -23,3 +23,6 @@ HTML – Structure and content layout
 CSS – Styling and animations
 
 JavaScript – Timer, scoring logic, input handling
+
+
+![typing.png](https://github.com/Shwta23/Typing-Test/blob/main/typing.png)
